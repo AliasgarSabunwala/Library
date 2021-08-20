@@ -1,3 +1,5 @@
+header.h
+void admin_menu()
 void main()
 {
     char ch;
