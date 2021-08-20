@@ -1,5 +1,16 @@
 header.h
+void display_alls()
+void display_allb()
+void book_issue()
+void book_deposit()
+void intro()
 void admin_menu()
+    
+// global declaration for stream object, object
+fstream fp,fp1;
+book bk;
+student st;
+
 void main()
 {
     char ch;
