@@ -1,10 +1,13 @@
 header.h
-void display_alls()
-void display_allb()
-void book_issue()
-void book_deposit()
-void intro()
-void admin_menu()
+write_book.cpp
+modify_book.cpp
+delete_student.cpp
+display_alls.cpp
+display_allb.cpp
+book_issue.cpp
+book_deposit.cpp
+intro.cpp
+admin_menu.cpp
     
 // global declaration for stream object, object
 fstream fp,fp1;
