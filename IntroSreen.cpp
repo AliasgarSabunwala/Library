@@ -1,4 +1,4 @@
-void intro()
+int intro()
 {
     clrscr();
     gotoxy(35,11);
