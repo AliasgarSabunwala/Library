@@ -1,8 +1,8 @@
-void admin_menu()
+int Options()
 {
     clrscr();
     int ch2;
-    cout<<"\n\n\n\tADMINISTRATOR MENU";
+    cout<<"\n\n\n\t MENU";
     cout<<"\n\n\t1.CREATE STUDENT RECORD";
     cout<<"\n\n\t2.DISPLAY ALL STUDENTS RECORD";
     cout<<"\n\n\t3.DISPLAY SPECIFIC STUDENT RECORD ";
