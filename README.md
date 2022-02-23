@@ -1,2 +1,3 @@
-# AR Library Management
-AR is the future so lets Manage future Libraries Through AR (Augmented Reality).
+# LibMag: Library Management
+
+A Library Management written in C++ and MySQL
