@@ -1,3 +1,3 @@
-# LibMag: Library Management
+# Library Management
 
-A Library Management written in C++ and MySQL
+Library Management System written in C++ v11 and MySQL database.
